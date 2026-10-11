@@ -1,0 +1,30 @@
+PERSONAL MINI-TOOLKIT - PROJECT PLAN
+
+1. PROJECT DESCRIPTION
+This Python program provides three useful tools through a simple menu.
+
+2. TOOLS
+Tool 1: Simple Calculator
+This tool allows the user to add, subtract, multiply, or divide two numbers.
+
+Tool 2: To-Do List Manager
+This tool allows the user to add, view, and remove tasks from a list.
+
+Tool 3: Number Guessing Game
+This tool lets the user guess a secret number and provides hints until the correct number is guessed.
+
+3. EXACT MENU TEXT
+Welcome to the Personal Mini-Toolkit!
+
+===== MAIN MENU =====
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+Enter your choice: 
+
+4. PYTHON CONCEPTS USED
+Simple Calculator: input, variables, float, if/elif/else, f-strings.
+To-Do List Manager: list, append, pop, while loop, if/elif/else, f-strings.
+Number Guessing Game: random numbers, while loop, input, int, if/elif/else, f-strings.
+Main Menu: while loop, input, if/elif/else, break, f-strings.
